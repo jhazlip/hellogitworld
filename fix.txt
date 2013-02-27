@@ -1,7 +1,0 @@
-Change on top of file
-Trainer making changes
-JUNK ON Purple 
-A line changed server side YELLOW.
-JUNK ON RED
-New line
-Put something at the buttom of the file. Server side.

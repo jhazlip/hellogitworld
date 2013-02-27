@@ -1,4 +1,0 @@
-Hello my name is John.
-This is a test of the the fork.
-There is 3 lines.
-New line
