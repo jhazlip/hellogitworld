@@ -1,6 +1,6 @@
 Change on top of file
 Trainer making changes
-JUNK ON
+JUNK ON RED
 A line changed server side.
 New line
 Put something at the buttom of the file. Server side.
